@@ -1,19 +1,17 @@
 name: recsys
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.10
-  - matplotlib
-  - plotly
-  - faiss-cpu
-  - statsmodels
-  - streamlit
-  - numpy
   - lightfm
   - pandas
+  - numpy
   - scipy
   - scikit-learn
+  - matplotlib
   - seaborn
+  - plotly
+  - streamlit
   - nmslib
-  - ipykernel
-prefix: C:\Users\Lenovo\miniconda3\envs\recsys
+  - statsmodels
