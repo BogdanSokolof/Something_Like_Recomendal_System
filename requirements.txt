@@ -1,19 +1,11 @@
-name: recsys
-channels:
-  - defaults
-dependencies:
-  - python=3.10
-  - matplotlib
-  - plotly
-  - faiss-cpu
-  - statsmodels
-  - streamlit
-  - numpy
-  - lightfm
-  - pandas
-  - scipy
-  - scikit-learn
-  - seaborn
-  - nmslib
-  - ipykernel
-prefix: C:\Users\Lenovo\miniconda3\envs\recsys
+lightfm
+nmslib
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+statsmodels
