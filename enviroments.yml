@@ -1,0 +1,33 @@
+name: recsys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - lightfm
+  - nmslib
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - streamlit
+  - statsmodelsname: recsys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - lightfm
+  - nmslib
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+  - streamlit
+  - statsmodels
