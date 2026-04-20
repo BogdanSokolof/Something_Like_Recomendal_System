@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - lightfm
   - pandas
   - numpy
   - scipy
@@ -13,5 +12,8 @@ dependencies:
   - seaborn
   - plotly
   - streamlit
-  - nmslib
   - statsmodels
+  - pip
+  - pip:
+      - lightfm
+      - nmslib
